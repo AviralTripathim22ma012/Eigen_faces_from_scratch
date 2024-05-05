@@ -46,4 +46,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 Feel free to star ⭐ this repository if you found it useful!
 
-[![GitHub stars](https://img.shields.io/github/stars/AviralTripathim22ma012/Eigen_faces_from_scratch.svg?style=social&label=Star)](https://github.com/AviralTripathim22ma012/Eigen_faces_from_scratch)
+[![GitHub stars](https:/img.shields.io/github/stars/AviralTripathim22ma012/Eigen_faces_from_scratch.svg?style=social&label=Star)](https://github.com/AviralTripathim22ma012/Eigen_faces_from_scratch)
